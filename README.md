@@ -108,4 +108,4 @@ Scenarios are switchable from the INTERFACE sheet via VBA macros that update cos
 
 ## Author
 
-Abdalkarim — IE303 Operations Research I, International University of Sarajevo
+Abdalkarim Alaraj — IE303 Operations Research I, International University of Sarajevo
